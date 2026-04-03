@@ -29,12 +29,4 @@ if(digitalRead(button2)==LOW){// kwows the button is pressed
 while(digitalRead(button2)==LOW){}// untill release
 }}// end push button 1
 
-}// end void loopvoid setup() {
-  // put your setup code here, to run once:
-
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}
+}// end void loop
